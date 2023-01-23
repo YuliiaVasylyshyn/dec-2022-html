@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+.father {
+    height: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: lavender;
+}
+.container-1 {
+    width: 530px;
+    height: 200px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: silver;
+}
+.container-2 {
+    width: 530px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.card-1 {
+    width: 170px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightblue;
+}
+.card-2 {
+    width: 170px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: lightblue;
+}
+.card-3 {
+    width: 170px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: lightblue;
+}
+.container-3 {
+    width: 530px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: silver;
+}
+.container-1 > h1 {
+    color: lavender;
+}
+.card-1 > h2 {
+    color: gray;
+}
+.card-2 > h2 {
+    color: gray;
+}
+.card-3 > h2 {
+    color: gray;
+}
+.container-3 > h1 {
+    color: lavender;
+}
