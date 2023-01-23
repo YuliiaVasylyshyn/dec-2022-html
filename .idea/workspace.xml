@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffecad29-1ac7-484f-8e7e-2ada58fb5273" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2022-html.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1_hw/images/bart_simpson.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1_hw/images/homer_simpson.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1_hw/images/lisa_simpson.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1_hw/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1_hw/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_hw_part1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_hw_part1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_hw_part2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2_hw_part2/main.css" afterDir="false" />
-    </list>
+    <list default="true" id="ffecad29-1ac7-484f-8e7e-2ada58fb5273" name="Changes" comment="add homework 1 and 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,8 +59,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674247068215</updated>
-      <workItem from="1674247070455" duration="28879000" />
+      <workItem from="1674247070455" duration="29238000" />
     </task>
+    <task id="LOCAL-00001" summary="add homework 1 and 2">
+      <created>1674488668108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674488668108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add homework 1 and 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework 1 and 2" />
   </component>
 </project>
